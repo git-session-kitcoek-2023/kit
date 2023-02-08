@@ -1,5 +1,5 @@
 # kit project
 
 ## Pre-requisites
-- git
+- [ ] git
 
